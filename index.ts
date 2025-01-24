@@ -1,4 +1,4 @@
-import nodeMailin from 'node-mailin'
+import nodeMailin from 'node-mailddddin'
 
 nodeMailin.start(
   { port: 25 }
